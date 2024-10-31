@@ -1,0 +1,14 @@
+﻿#login {
+	width: 358px;
+}
+
+#login .login-form-captcha + *,
+#login .register-form-captcha + *,
+#login .lost-form-captcha + *
+{
+	margin-bottom: 16px;
+}
+
+div.captcha-controls a img {
+    display: block;
+}

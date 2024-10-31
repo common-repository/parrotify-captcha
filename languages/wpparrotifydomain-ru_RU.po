@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpparrotifydomain\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-26 21:20+0200\n"
+"PO-Revision-Date: 2013-12-26 21:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: Parrotify Team\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../general_options.php:6
+msgid "PARROTIFY CAPTCHA"
+msgstr "Капча Parrotify"
+
+#: ../general_options.php:10
+msgid "Options saved."
+msgstr "Параметры сохранены"
+
+#: ../general_options.php:55
+msgid "Captcha display Options"
+msgstr "Опции просмотра кода"
+
+#: ../general_options.php:58
+msgid "Enable Captcha for Login form"
+msgstr "Код подтверждения в форме: Вход пользователя"
+
+#: ../general_options.php:61 ../general_options.php:70
+#: ../general_options.php:79 ../general_options.php:88
+#: ../general_options.php:97
+msgid "Yes"
+msgstr "Да"
+
+#: ../general_options.php:62 ../general_options.php:71
+#: ../general_options.php:80 ../general_options.php:89
+#: ../general_options.php:98
+msgid "No"
+msgstr "Нет"
+
+#: ../general_options.php:67
+msgid "Enable Captcha for Register form"
+msgstr "Код подтверждения в форме: Регистрация"
+
+#: ../general_options.php:76
+msgid "Enable Captcha for Lost Password form"
+msgstr "Код подтверждения в форме: Забыли Пароль"
+
+#: ../general_options.php:85
+msgid "Enable Captcha for Comments form"
+msgstr "Код подтверждения для комментариев"
+
+#: ../general_options.php:94
+msgid "Hide Captcha for logged in users"
+msgstr "Скрыть код подтверждения для авторизированных пользователей"
+
+#: ../wp-parrotify-captcha.php:19
+msgid ""
+"Adds parrotify captcha to user front-end WordPress forms. <a href=\"http://"
+"parrotify.com/#register\">Add your site in Parrotify, to start making!</a>"
+msgstr ""
+"Плагин для установки виджета – капчи Parrotify. &nbsp; <a href=\"http://"
+"parrotify.com/#register\">Добавьте вашу площадку в систему Parrotify, чтобы "
+"начать зарабатывать</a>"
+
+#: ../wp-parrotify-captcha.php:99
+msgid "<strong>ERROR</strong>: Captcha confirmation error!"
+msgstr "<strong>ОШИБКА</strong>: Текст капчи введён неверно!"
+
+#: ../wp-parrotify-captcha.php:160
+msgid "Incorrect captcha confirmation!"
+msgstr "Текст капчи введён неверно!"
+
+#: ../wp-parrotify-captcha.php:240 ../wp-parrotify-captcha.php:314
+msgid ""
+"Error: Incorrect CAPTCHA. Press your browser's back button and try again."
+msgstr "Ошибка: Текст капчи введён неверно!"
+
+#: ../wp-parrotify-captcha.php:272 ../wp-parrotify-captcha.php:280
+msgid "ERROR"
+msgstr "Ошибка"
+
+#: ../wp-parrotify-captcha.php:272 ../wp-parrotify-captcha.php:280
+msgid "That CAPTCHA was incorrect."
+msgstr "Текст капчи введён неверно!"
+
+#~ msgid "Adds parrotify captcha to user front-end WordPress forms."
+#~ msgstr "Плагин для установки виджета – капчи Parrotify."
+
+#~ msgid "Parrotify Captcha"
+#~ msgstr "Каптча Parrotify"
+
+#~ msgid "Captcha"
+#~ msgstr "Код безопасности"
+
+#~ msgid "Type the text displayed above"
+#~ msgstr "Введите символы отображаемые выше"
+
+#~ msgid "CAPTCHA cannot be empty."
+#~ msgstr "Окно защитного кода не может быть пустым."
+
+#~ msgid "Please complete the CAPTCHA."
+#~ msgstr "Пожалуйста введите код безопасности."
+
+#~ msgid "Select Captcha letters type"
+#~ msgstr "Выберите тип букв"
+
+#~ msgid "Capital letters only"
+#~ msgstr "Только заглавные буквы"
+
+#~ msgid "Small letters only"
+#~ msgstr "Только маленькие буквы"
+
+#~ msgid "Capital & Small letters"
+#~ msgstr "Заглавные и маленькие буквы"
+
+#~ msgid "Select a Captcha type"
+#~ msgstr "Выберите тип кода"
+
+#~ msgid "Alphanumeric"
+#~ msgstr "Буквы и числа"
+
+#~ msgid "Alphabets only"
+#~ msgstr "Только буквы"
+
+#~ msgid "Numbers only"
+#~ msgstr "Только числа"
+
+#~ msgid "Total number of Captcha Characters"
+#~ msgstr "Общее количество символов"
+
+#~ msgid "CAPTCHA"
+#~ msgstr "Код безопасности"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
